@@ -139,7 +139,8 @@ What do you hope people will **do** once inside your experience?
   - Isolate one observation that you can use as a jumping point for a design intervention.
 - Do: understanding heritage through stories
   - Identify at least one individual you can interview and co-create about heritage + storytelling. Schedule 2 sessions with the same individual(s).
-  - Part 1: straight interview. Prepare your questions and tools / materials.
+  - REQUIRED: CONSENT FORMS SIGNED BY INTERVIEWEES
+  - Part 1: straight interview. Prepare your questions and [tools / materials.](http://www.designkit.org/methods)
     - How do they engage with your questions?
     - Which questions lead to the most engaging interaction between you two?
     - What makes them comfortable, uncomfortable?
@@ -150,17 +151,21 @@ What do you hope people will **do** once inside your experience?
 Reminder: your goal is to incite dialogue (and thus expression) on multigenerational heritage. Your insight: storytelling can be a way to incite this expression / dialogue.
 
 - Read:
-  - Co-creation
+  - [Design methods](http://www.designkit.org/methods), by IDEO
+  - Notes on [<kbd>interviewing</kbd>](http://www.designkit.org/methods/2)
 - Sum:
   - Video, photographs, insights from field research on dialogue in public space
   - Video, photographs, insights from interview and co-creation session
+  - Questions, concerns, insights from exploring Design Methods by IDEO. How is it different from your typical process?
 
 ## WEEK 2: THE INSIDE: insights and ideation
 Goals:
 To understand and practice:
-- How to translate observations and insights into foundation for design questions
+- How to translate observations and insights into foundation for [design questions](http://www.designkit.org/methods/60)
 - How to transition from design questions to brainstorms / concept generation
+  - What is your goal?
 - Paper prototyping and testing
+  - [Learning from failure](http://www.designkit.org/mindsets/1), by Tim Brown
 
 ### Class I: Monday
 - Review Assignment 1
@@ -172,6 +177,8 @@ To understand and practice:
 
 **In-between assignment**
 Concept generation sessions with your fellow students.
+- Resources:
+  - On [brainstorming](http://www.designkit.org/methods/1)
 On your blog:
 - Post sketches and summaries
 
@@ -233,6 +240,9 @@ What are the sensual triggers for wayfinding (audio, visual, smell, touch, etc.)
 
 **Assignment Week 4:**
 - Read:
+  - [Creative Confidence](http://www.designkit.org/mindsets/3), by David Kelley
+  - [Iterate](http://www.designkit.org/mindsets/7)
 - Do:
+  - Iterate
 - Go:
 - Sum:
