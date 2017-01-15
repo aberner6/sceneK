@@ -105,7 +105,13 @@ To understand and practice:
   - Come back together and share - what is behind satisfaction?
 - Exercise: hunt for curiosity-provoking interactions
   - Come back together and share - what provokes this interest?
-- Discussion of Assignment 1
+- Discussion of Assignment 0.5
+
+**In-between assignment**<br>
+In between classes, we would like you to take time to go home and document, through high-quality video and audio (self-narrated) how your heritage-identity is expressed in your daily environment - neighborhood, apartment, online life. Show us. Narrate as you show us.<br>
+On your blog:
+- Post/link edited footage
+- Diagram the items that "pulled" stories out of you most easily
 
 ### Class II: Wednesday
 - Review Assignment 1 + learnings
@@ -163,6 +169,11 @@ To understand and practice:
 - Exercise: transition from clustered insights to design questions
 - Lecture: inspirational heritage-based experiences
 - Lecture: how to brainstorm productively, collaboratively
+
+**In-between assignment**
+Concept generation sessions with your fellow students.
+On your blog:
+- Post sketches and summaries
 
 ### Class II: Tuesday
 - Review learning so far, course structure
