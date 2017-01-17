@@ -96,16 +96,12 @@ To understand and practice:
 
 ### Class I: Tuesday
 - Intro: names, backgrounds
-- Intro: discussion and lecture on Interaction Design + CIID perspective
+- Intro: discussion and [lecture on Interaction Design + CIID perspective](https://github.com/aberner6/sceneK/blob/master/lectures/intro_january17.pdf)
   - Notes from readings
   - Notes from museum visits
-- Intro: course syllabus
+- Intro: [course syllabus](https://github.com/aberner6/sceneK/blob/master/README.md)
 - Intro: "problem-setting" - what is CoHERE, design brief
-- Exercise: hunt for satisfying interactions
-  - Come back together and share - what is behind satisfaction?
-- Exercise: hunt for curiosity-provoking interactions
-  - Come back together and share - what provokes this interest?
-- Discussion of Assignment 0.5
+- Discussion of in-between assignment
 
 **In-between assignment**<br>
 In between classes, we would like you to take time to go home and document, through high-quality video and audio (self-narrated) how your heritage-identity is expressed in your daily environment - neighborhood, apartment, online life. Show us. Narrate as you show us.<br>
@@ -114,11 +110,30 @@ On your blog:
 - Diagram the items that "pulled" stories out of you most easily
 
 ### Class II: Wednesday
-- Review Assignment 1 + learnings
-- Lecture: tools for people-centered interaction design: how we learn, how we get inspired
+- Review Assignment 0 readings (30 min)
+- Lecture: tools for people-centered interaction design: how we learn, how we get inspired (30 min)
   - Prep for: conducting interviews and field research
-- Lecture: discussion and overview on heritage-identity, storytelling
-- Discussion of Assignment 1
+- Watch: [Everyone around you has a story the world needs to hear](https://www.ted.com/talks/dave_isay_everyone_around_you_has_a_story_the_world_needs_to_hear/transcript?language=en), by Dave Isay (10 min)
+- Lecture: discussion and overview on heritage-identity, storytelling tactics (30 min)
+- Planning Assignment 1 (30 min)
+  - Field observation: plan to spend 1 hr
+    - Where to go
+  - Interview: plan to spend 1 hr
+    - Who to talk with
+  - Prep: plan to spend 1 hr
+    - Questions to ask
+    - Materials / prompts
+  - Consent forms
+  - Camera: charged and with storage available!
+- Attend [CIID Open Lecture](http://ciid.dk/jan-christoph-zoels-and-matt-cottam/) on exhibition design and interaction design
+
+**Bonus exercises** <br>
+- Exercise searching (30 min)
+  - Look at 3 projects related to story-telling from this list. Share why 1 stands out.
+- Exercise: hunt for satisfying interactions
+  - Come back together and share - what is behind satisfaction?
+- Exercise: hunt for curiosity-provoking interactions
+  - Come back together and share - what provokes this interest?
 
 **Assignment Week 1:**<br>
 In this assignment, you are engaging with two elements of the course:<br>
@@ -129,7 +144,7 @@ What do you hope people will **do** once inside your experience?
 <br>What makes people **engage** with one another? What tools do they use during their engagement?
 <br>How can you incite story-sharing, storytelling as a prompt for dialogue? What tools do you need to help?
 
-- Go: understanding dialogue
+- Go: understanding dialogue (3 hrs)
   - Observe instances of people engaging in dialogue, especially sharing stories, in public space.<br>
   - Create a diagram that explains the patterns you observe.<br>
   - Consider some of the different distinctions that may be present:
@@ -137,26 +152,30 @@ What do you hope people will **do** once inside your experience?
     - Where do you observe the dialogue? What do you notice about the constraints of that environment that may guide the potential for engagement?
     - How long and how deep is the dialogue? What made one party or the other engage for longer or exit earlier?
   - Isolate one observation that you can use as a jumping point for a design intervention.
-- Do: understanding heritage through stories
-  - Identify at least one individual you can interview and co-create about heritage + storytelling. Schedule 2 sessions with the same individual(s).
+- Read: to prepare for interview (30 min)
+  - Skim [Design methods](http://www.designkit.org/methods), by IDEO
+  - Notes on [<kbd>interviewing</kbd>](http://www.designkit.org/methods/2)
+- Do: understanding heritage through stories (3.5 hrs)
+  - Identify at least one individual you can interview and co-create about heritage + storytelling. Schedule 1 session with the individual.
   - REQUIRED: CONSENT FORMS SIGNED BY INTERVIEWEES
-  - Part 1: straight interview. Prepare your questions and [tools / materials.](http://www.designkit.org/methods)
+  - In advance, do the reading on [interview materials and prep](http://www.designkit.org/methods) (1 hr)
+  - Make your list of questions and conceptualize / print out any tools (2 hrs)
+  - Interview (30 min)
+  - Considerations post-interview
     - How do they engage with your questions?
     - Which questions lead to the most engaging interaction between you two?
     - What makes them comfortable, uncomfortable?
     - What do they use around themselves to communicate to you?
     - Which questions / tools / prompts / materials lead to stories? All? None?
-  - Part 2: interview + co-creation. How can they help you come up with a possible replicable intervention / experience / setting that would allow expression of heritage through stories?
-
 Reminder: your goal is to incite dialogue (and thus expression) on multigenerational heritage. Your insight: storytelling can be a way to incite this expression / dialogue.
 
-- Read:
-  - [Design methods](http://www.designkit.org/methods), by IDEO
-  - Notes on [<kbd>interviewing</kbd>](http://www.designkit.org/methods/2)
-- Sum:
+- Sum (1.5 hrs):
   - Video, photographs, insights from field research on dialogue in public space
   - Video, photographs, insights from interview and co-creation session
   - Questions, concerns, insights from exploring Design Methods by IDEO. How is it different from your typical process?
+
+**Bonus exercise:**  
+- Interview Part 2 (30 min): interview + co-creation. How can they help you come up with a possible replicable intervention / experience / setting that would allow expression of heritage through stories?
 
 ## WEEK 2: THE INSIDE: insights and ideation
 Goals:
