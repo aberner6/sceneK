@@ -125,7 +125,7 @@ On your blog:
     - Materials / prompts
   - Consent forms
   - Camera: charged and with storage available!
-- Attend [CIID Open Lecture](http://ciid.dk/jan-christoph-zoels-and-matt-cottam/) on exhibition design and interaction design
+- 16:15 Attend [CIID Open Lecture](http://ciid.dk/jan-christoph-zoels-and-matt-cottam/) on exhibition design and interaction design from 17-18h
 
 **Bonus exercises** <br>
 - Exercise searching (30 min)
