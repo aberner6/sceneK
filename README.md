@@ -269,3 +269,6 @@ What are the sensual triggers for wayfinding (audio, visual, smell, touch, etc.)
   - Iterate
 - Go:
 - Sum:
+
+### WEEK 5: Friday (February 2) Studio Visit 13h - 17h
+[Peer Klausen](http://andreasrefsgaard.dk/) will take us through his art and design practice and show us his craft and studio!<br>
