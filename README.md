@@ -145,14 +145,6 @@ What do you hope people will **do** once inside your experience?
 <br>What makes people **engage** with one another? What tools do they use during their engagement?
 <br>How can you incite story-sharing, storytelling as a prompt for dialogue? What tools do you need to help?
 
-- Go: understanding dialogue (3 hrs)
-  - Observe instances of people engaging in dialogue, especially sharing stories, in public space.<br>
-  - Create a diagram that explains the patterns you observe.<br>
-  - Consider some of the different distinctions that may be present:
-    - Are the people in a dialogue with others or themselves (an inner dialogue)? Do they know one another or are they strangers?
-    - Where do you observe the dialogue? What do you notice about the constraints of that environment that may guide the potential for engagement?
-    - How long and how deep is the dialogue? What made one party or the other engage for longer or exit earlier?
-  - Isolate one observation that you can use as a jumping point for a design intervention.
 - Read: to prepare for interview (30 min)
   - Skim [Design methods](http://www.designkit.org/methods), by IDEO
   - Notes on [<kbd>interviewing</kbd>](http://www.designkit.org/methods/2)
@@ -175,8 +167,16 @@ Reminder: your goal is to incite dialogue (and thus expression) on multigenerati
   - Video, photographs, insights from interview and co-creation session
   - Questions, concerns, insights from exploring Design Methods by IDEO. How is it different from your typical process?
 
-**Bonus exercise:**  
+**Extra exercise:**  
 - Interview Part 2 (30 min): interview + co-creation. How can they help you come up with a possible replicable intervention / experience / setting that would allow expression of heritage through stories?
+- Go: understanding dialogue (0-3 hrs)
+  - Observe instances of people engaging in dialogue, especially sharing stories, in public space.<br>
+  - Create a diagram that explains the patterns you observe.<br>
+  - Consider some of the different distinctions that may be present:
+    - Are the people in a dialogue with others or themselves (an inner dialogue)? Do they know one another or are they strangers?
+    - Where do you observe the dialogue? What do you notice about the constraints of that environment that may guide the potential for engagement?
+    - How long and how deep is the dialogue? What made one party or the other engage for longer or exit earlier?
+  - Isolate one observation that you can use as a jumping point for a design intervention.
 
 ## WEEK 2: THE INSIDE: insights and ideation
 Goals:
@@ -224,6 +224,7 @@ What are the sensual triggers for wayfinding (audio, visual, smell, touch, etc.)
 
 ### Class I: Monday
 - Review Assignment 2
+- Guest lecture by [<kbd>Mette Mørch</kbd>](http://ciid.dk/education/portfolio/idp16/courses/final-projects/projects/the-break-time-mission/) on her final project and research for it
 - Lecture: what is an "invitation" and why is it important?
 - Exercise: observe "invitations"
 - Exercise: paper prototype invitations
