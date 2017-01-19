@@ -12,6 +12,10 @@ Monday from 10-14h <br>
 Tuesday from 12-16h, (optional) lecture by Yann at 16:30 <br>
 Friday guest lecture from 13-17h <br>
 
+### Inspiration:
+- Today's inspiration:
+- Tools, inspirational projects + readings [linked here](https://docs.google.com/spreadsheets/d/1ORRbNhE4PQNAcxEjbB3R6uoEBi8sGffI1UIKLg3XsQE/edit?usp=sharing)
+
 ## Overview:
 This course will introduce students to the CIID process of Interaction Design - from research to prototyping - with weekly readings, lectures and activities that will equip students with methodological knowledge as well as practical, hands-on techniques to think through and flesh out their designs. We will focus our efforts under an engaging research topic, design challenge and its subset of questions over the course of 4 weeks.<br>
 In the following 5 weeks, students will take their thoroughly researched and prototyped concepts and continue to see them through to their full form at which point they will show the work at a museum or other public space in Copenhagen.
