@@ -7,9 +7,10 @@ Abhiruchi Chhikara
 <br>a.chhikara@ciid.dk
 
 # Announcements:
-Next week's meetings are:
-Monday, Tuesday and a guest lecture on Friday.
-Time: 13-17h
+Next week's meetings are: <br>
+Monday from 10-14h <br>
+Tuesday from 13-17h <br>
+Friday guest lecture
 
 ## Overview:
 This course will introduce students to the CIID process of Interaction Design - from research to prototyping - with weekly readings, lectures and activities that will equip students with methodological knowledge as well as practical, hands-on techniques to think through and flesh out their designs. We will focus our efforts under an engaging research topic, design challenge and its subset of questions over the course of 4 weeks.<br>
