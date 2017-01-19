@@ -9,7 +9,7 @@ Abhiruchi Chhikara
 # Announcements:
 Next week's meetings are: <br>
 Monday from 10-14h <br>
-Tuesday from 13-17h <br>
+Tuesday from 12-16h <br>
 Friday guest lecture from 13-17h <br>
 
 ## Overview:
