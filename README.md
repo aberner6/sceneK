@@ -159,13 +159,14 @@ What do you hope people will **do** once inside your experience?
   - In advance, do the reading on [interview materials and prep](http://www.designkit.org/methods) (1 hr)
   - Make your list of questions and conceptualize / print out any tools (2 hrs)
   - Interview (30 min)
+    - Remember to write down their name, who they are, what they do, where they are from, how old they are - the basics :)
   - Considerations post-interview
     - How do they engage with your questions?
     - Which questions lead to the most engaging interaction between you two?
     - What makes them comfortable, uncomfortable?
     - What do they use around themselves to communicate to you?
     - Which questions / tools / prompts / materials lead to stories? All? None?
-Reminder: your goal is to incite dialogue (and thus expression) on multigenerational heritage. Your insight: storytelling can be a way to incite this expression / dialogue.
+Reminder: your goal is to incite dialogue (and thus expression) on heritage. Your insight: storytelling can be a way to incite this expression / dialogue.
 
 - Sum (1.5 hrs):
   - Video, photographs, insights from field research on dialogue in public space
