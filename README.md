@@ -194,12 +194,14 @@ To understand and practice:
   - [Learning from failure](http://www.designkit.org/mindsets/1), by Tim Brown
 
 ### Class I: Monday
-- Review Assignment 1
-- Lecture: how insights / observations lead to design questions lead to brainstorms lead to concepts
-- Exercise: generate and consolidate insights / observations
-- Exercise: transition from clustered insights to design questions
-- Lecture: inspirational heritage-based experiences
-- Lecture: how to brainstorm productively, collaboratively
+- 10-10:15 Reminder of process (AB)
+- 10:15-11:15 Review Assignment 1 + document observations
+- 11:15-11:30 Exercise: Observations leading to clusters leading to insights (AC)
+- 11:30-11:45 Break
+- 11:45-12:30 Exercise: Insights leading to How Might We (AB+AC)
+- 12:35-13:15 Inspirational examples (based in exhibition design / heritage-expression, etc.)+ reflection/observations/discussion on interactive design ingredients, documentation best practices (AB)
+- 13:15-13:30 Break
+- 13:30-14:00 Brainstorming methods + exercising of methods (AC)
 
 **In-between assignment**
 Concept generation sessions with your fellow students.
@@ -209,13 +211,16 @@ On your blog:
 - Post sketches and summaries
 
 ### Class II: Tuesday
-- Review learning so far, course structure
-- Lecture: how to paper prototype, test
+- Review brainstorming
+- Lecture: from concept to scenarios
   - + Scenario writing
   - + Storyboarding
+- Lecture: from scenarios to prototypes
+  - Examples of methods (analog)
+  - Example of methods (technical)
 - Exercise: paper prototype a [    ], go test in the building. What did you learn?
 - Exercise: concept definition, refining
-- Lecture: inspirational story-based interactions
+- Revisit: inspirational story-based interactions
 
 ### Class III: Friday (January 27) Guest Lecture 13h - 17h
 [Andreas Refsgaard](http://andreasrefsgaard.dk/) will take us through his interactive design practice and teach a few easy-to-implement techniques!<br>
