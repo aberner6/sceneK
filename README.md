@@ -13,18 +13,19 @@ Tuesday: independent study self-organised brainstorm before lecture <br>
 Tuesday: from 12-16h, (optional) lecture by Yann at 16:30 <br>
 Friday: guest lecture from 13-17h <br>
 
-**NOTE ON DOCUMENTATION**
+**NOTE ON DOCUMENTATION**<br>
 Make sure that you have done the following before the end of the course.
-1. Take high quality photos of each of the tools you used, with your participants' input.
-  2. Translate the input, if in another language, and add this info to the photo / slide / however it works for you (I can help if you  need it)
-3. Edit the video / audio / photographs from your interviews to make sure that they tell the story of each of your interview experiences. Consider: what are the key observations / insights you would like to make sure other people understand?
-  4. If in another language, add English voice-over / subtitles so you can share it more widely (and so we can understand it :)
-  5. Make sure we know what question / tool is being used during the edited segment of the video. Otherwise we, as your viewers, are lost! So - you can add a general title before that segment, for example. See me if you need help.
-  6. Example [here](https://drive.google.com/open?id=0B7XZZUZ2PP-0cE91bGFNVW14Vk0).
+- Take high quality photos of each of the tools you used, with your participants' input.
+  - Translate the input, if in another language, and add this info to the photo / slide / however it works for you (I can help if you  need it)
+- Edit the video / audio / photographs from your interviews to make sure that they tell the story of each of your interview experiences. Consider: what are the key observations / insights you would like to make sure other people understand?
+  - If in another language, add English voice-over / subtitles so you can share it more widely (and so we can understand it :)
+  - Make sure we know what question / tool is being used during the edited segment of the video. Otherwise we, as your viewers, are lost! So - you can add a general title before that segment, for example. See me if you need help.
+  - Example [here](https://drive.google.com/open?id=0B7XZZUZ2PP-0cE91bGFNVW14Vk0).
 
-### Inspiration:
-- Today's inspiration: [Project links here](http://www.one-tab.com/page/hEAC3NEKQ6qwZz3YfKSw-w).
-- Tools, inspirational projects + readings [linked here](https://docs.google.com/spreadsheets/d/1ORRbNhE4PQNAcxEjbB3R6uoEBi8sGffI1UIKLg3XsQE/edit?usp=sharing)
+
+  ### Inspiration:
+  - Today's inspiration: [Project links here](http://www.one-tab.com/page/hEAC3NEKQ6qwZz3YfKSw-w).
+  - Tools, inspirational projects + readings [linked here](https://docs.google.com/spreadsheets/d/1ORRbNhE4PQNAcxEjbB3R6uoEBi8sGffI1UIKLg3XsQE/edit?usp=sharing)
 
 ## Overview:
 This course will introduce students to the CIID process of Interaction Design - from research to prototyping - with weekly readings, lectures and activities that will equip students with methodological knowledge as well as practical, hands-on techniques to think through and flesh out their designs. We will focus our efforts under an engaging research topic, design challenge and its subset of questions over the course of 4 weeks.<br>
@@ -213,7 +214,7 @@ To understand and practice:
 - 13:15-13:30 Break
 - 13:30-14:00 Brainstorming methods + exercising of methods (AC) [slides linked here](https://drive.google.com/open?id=0B7XZZUZ2PP-0UHUxaVdBOWltWFU).
 
-**In-between assignment**
+**In-between assignment**<br>
 HMW Question definition + concept generation sessions with your fellow students.
 - Develop 6 Key Insights
 - Craft 3 ‘how might we’ questions. Each question should have a few versions.
