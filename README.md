@@ -7,9 +7,24 @@ Abhiruchi Chhikara
 <br>a.chhikara@ciid.dk
 
 # Announcements:
-Next week's meetings are:
-Monday, Tuesday and a guest lecture on Friday.
-Time: 13-17h
+This week (January 23), lecture meetings are: <br>
+Monday from 10-14h <br>
+Tuesday: independent study self-organised brainstorm before lecture <br>
+Tuesday: from 12-16h, (optional) lecture by Yann at 16:30 <br>
+Friday: guest lecture from 13-17h <br>
+
+**NOTE ON DOCUMENTATION**
+Make sure that you have done the following before the end of the course.
+1. Take high quality photos of each of the tools you used, with your participants' input.
+  2. Translate the input, if in another language, and add this info to the photo / slide / however it works for you (I can help if you  need it)
+3. Edit the video / audio / photographs from your interviews to make sure that they tell the story of each of your interview experiences. Consider: what are the key observations / insights you would like to make sure other people understand?
+  4. If in another language, add English voice-over / subtitles so you can share it more widely (and so we can understand it :)
+  5. Make sure we know what question / tool is being used during the edited segment of the video. Otherwise we, as your viewers, are lost! So - you can add a general title before that segment, for example. See me if you need help.
+  6. Example [here](https://drive.google.com/open?id=0B7XZZUZ2PP-0cE91bGFNVW14Vk0).
+
+### Inspiration:
+- Today's inspiration: [Project links here](http://www.one-tab.com/page/hEAC3NEKQ6qwZz3YfKSw-w).
+- Tools, inspirational projects + readings [linked here](https://docs.google.com/spreadsheets/d/1ORRbNhE4PQNAcxEjbB3R6uoEBi8sGffI1UIKLg3XsQE/edit?usp=sharing)
 
 ## Overview:
 This course will introduce students to the CIID process of Interaction Design - from research to prototyping - with weekly readings, lectures and activities that will equip students with methodological knowledge as well as practical, hands-on techniques to think through and flesh out their designs. We will focus our efforts under an engaging research topic, design challenge and its subset of questions over the course of 4 weeks.<br>
@@ -154,20 +169,21 @@ What do you hope people will **do** once inside your experience?
   - In advance, do the reading on [interview materials and prep](http://www.designkit.org/methods) (1 hr)
   - Make your list of questions and conceptualize / print out any tools (2 hrs)
   - Interview (30 min)
+    - Remember to write down their name, who they are, what they do, where they are from, how old they are - the basics :)
   - Considerations post-interview
     - How do they engage with your questions?
     - Which questions lead to the most engaging interaction between you two?
     - What makes them comfortable, uncomfortable?
     - What do they use around themselves to communicate to you?
     - Which questions / tools / prompts / materials lead to stories? All? None?
-Reminder: your goal is to incite dialogue (and thus expression) on multigenerational heritage. Your insight: storytelling can be a way to incite this expression / dialogue.
+Reminder: your goal is to incite dialogue (and thus expression) on heritage. Your insight: storytelling can be a way to incite this expression / dialogue.
 
 - Sum (1.5 hrs):
   - Video, photographs, insights from field research on dialogue in public space
   - Video, photographs, insights from interview and co-creation session
   - Questions, concerns, insights from exploring Design Methods by IDEO. How is it different from your typical process?
 
-**Extra exercise:**  
+**Extra exercise:**
 - Interview Part 2 (30 min): interview + co-creation. How can they help you come up with a possible replicable intervention / experience / setting that would allow expression of heritage through stories?
 - Go: understanding dialogue (0-3 hrs)
   - Observe instances of people engaging in dialogue, especially sharing stories, in public space.<br>
@@ -187,29 +203,37 @@ To understand and practice:
 - Paper prototyping and testing
   - [Learning from failure](http://www.designkit.org/mindsets/1), by Tim Brown
 
-### Class I: Monday
-- Review Assignment 1
-- Lecture: how insights / observations lead to design questions lead to brainstorms lead to concepts
-- Exercise: generate and consolidate insights / observations
-- Exercise: transition from clustered insights to design questions
-- Lecture: inspirational heritage-based experiences
-- Lecture: how to brainstorm productively, collaboratively
+### Class I: Monday Jan. 23
+- 10-10:15 Reminder of process (AB)
+- 10:15-11:15 Review Assignment 1 + document observations. ["Rich" Template linked here](https://drive.google.com/open?id=0B7XZZUZ2PP-0WW1IRFdIQnZ0Sms).
+- 11:15-11:30 Exercise: Observations leading to clusters leading to insights (AC)
+- 11:30-11:45 Break
+- 11:45-12:30 Exercise: Insights leading to How Might We (AB+AC) <kbd>[slides linked here](https://drive.google.com/open?id=0B7XZZUZ2PP-0Q1NWMEU4ZEhYcTQ)</kbd>.
+- 12:35-13:15 Inspirational examples (based in exhibition design / heritage-expression, etc.)+ reflection/observations/discussion on interactive design ingredients, documentation best practices (AB) [slides linked here](https://drive.google.com/file/d/0B7XZZUZ2PP-0RTZnY2U2REpKTDg/view?usp=sharing). [Project links here](http://www.one-tab.com/page/hEAC3NEKQ6qwZz3YfKSw-w).
+- 13:15-13:30 Break
+- 13:30-14:00 Brainstorming methods + exercising of methods (AC) [slides linked here](https://drive.google.com/open?id=0B7XZZUZ2PP-0UHUxaVdBOWltWFU).
 
 **In-between assignment**
-Concept generation sessions with your fellow students.
-- Resources:
-  - On [brainstorming](http://www.designkit.org/methods/1)
-On your blog:
-- Post sketches and summaries
+HMW Question definition + concept generation sessions with your fellow students.
+- Develop 6 Key Insights
+- Craft 3 ‘how might we’ questions. Each question should have a few versions.
+- Hold a brainstorm!
+  - Resources:
+    - On [brainstorming](http://www.designkit.org/methods/1)
+- Post on your blog:
+  - Pictures of the sketches+titles
 
 ### Class II: Tuesday
-- Review learning so far, course structure
-- Lecture: how to paper prototype, test
+- Review brainstorming
+- Lecture: from concept to scenarios
   - + Scenario writing
   - + Storyboarding
+- Lecture: from scenarios to prototypes
+  - Examples of methods (analog)
+  - Example of methods (technical)
 - Exercise: paper prototype a [    ], go test in the building. What did you learn?
 - Exercise: concept definition, refining
-- Lecture: inspirational story-based interactions
+- Revisit: inspirational story-based interactions
 
 ### Class III: Friday (January 27) Guest Lecture 13h - 17h
 [Andreas Refsgaard](http://andreasrefsgaard.dk/) will take us through his interactive design practice and teach a few easy-to-implement techniques!<br>
