@@ -225,16 +225,18 @@ HMW Question definition + concept generation sessions with your fellow students.
   - Pictures of the sketches+titles
 
 ### Class II: Tuesday
-- Review brainstorming
-- Lecture: from concept to scenarios
-  - + Scenario writing
-  - + Storyboarding
-- Lecture: from scenarios to prototypes
-  - Examples of methods (analog)
-  - Example of methods (technical)
-- Exercise: paper prototype a [    ], go test in the building. What did you learn?
-- Exercise: concept definition, refining
-- Revisit: inspirational story-based interactions
+- Review + discuss insights, HMW, brainstorm
+- From ideas -> concept
+  - Exercise: Bundle ideas (AB)
+  - Exercise: Scenario writing / act it out
+- Review concepts
+  - Exercise: Gut check, top 5, what aspects to prototype?
+- Lecture + discussion: prototyping
+  - Just enough: inspirations ([yesterday](http://www.one-tab.com/page/QpoI7wy-Td6zGewoyB46dQ) + [today](http://www.one-tab.com/page/EYpvhMuoTrCFxXleAdbmXQ))
+  - Storyboards, Role Plays, models, mock-ups
+- Review concepts + discuss plans for prototypes
+  - Discussion: pure analog v. technical
+- Prep week 2 assignment + plan for testing or co-creation/co-design
 
 ### Class III: Friday (January 27) Guest Lecture 13h - 17h
 [Andreas Refsgaard](http://andreasrefsgaard.dk/) will take us through his interactive design practice and teach a few easy-to-implement techniques!<br>
