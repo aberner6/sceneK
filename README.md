@@ -240,28 +240,39 @@ HMW Question definition + concept generation sessions with your fellow students.
   - Discussion: pure analog v. technical
 - Prep week 2 assignment + plan for testing or co-creation/co-design
 
+**In-between assignment**<br> (3hrs max)
 - Decide if you are doing a individual concept or in group/ groups.
-- Pick 1 How Might We that you ( your group) is drawn towards.
-- Pick 1 Concept that you (or your group) want to to work on for the few weeks. You can do this based on the current brainstorm or a new brainstorm  ( brainstorm, cluster, build refine).
-- Before coming to class briefly think about what are the assumptions of your concept?
-- Be ready to share this at the start of the the class on Wednesday. You will have 5 mins to share, so keep it concise and focused. You can use whatever materials you want to to explain and communicate your concept.
+- Pick 1 How Might We that you (your group) is drawn towards. (15mins)
+- Pick 1 Concept that you (or your group) want to to work on for the few weeks.
+  - If you can choose 1 based on the current brainstorm, this will take 15mins
+  - If you would like to brainstorm further before picking, conduct the brainstorm/cluster/build/refine session (2h)
+- Before coming to class briefly think about what are the assumptions of your concept? (15mins)
+**- Post this on your blog + all sketches that are relevant**
+- Be ready to share this at the start of the the class on Wednesday. You will have 5 mins to share, so keep it concise and focused. You can use whatever materials you want to to explain and communicate your concept. (30mins)
   - Things to include:
   - HMW
   - Main thought behind concept
   - Components/features/abstract ingredients of concept
   - Assumptions (what are you assuming will happen?)
+  - Who are you designing for? Who is your audience?
+  - What’s the expected value for the audience you have chosen?
 
-**In-between assignment**<br>
 ### Class III: Thursday
 Concept direction presentations
+- How to break down concept into prototype-able participants
+- Plan for feedback / testing / co-design sessions
 
 ### Class IV: Friday (January 27) Guest Lecture 13h - 17h
 [Andreas Refsgaard](http://andreasrefsgaard.dk/) will take us through his interactive design practice and teach a few easy-to-implement techniques!<br>
 
-**Assignment Week 2:**
-Prototype and test at least 2 components of your concept.
+**Assignment Week 2:** (5h total)
+Prototype and test at least 1 component of your concept.
 What to prototype / how to prototype?
-
+- Make paper prototype or role-play scenario or Wizard of Oz or (any other method) with which you want to test the component (2h)
+- Go out and test, get feedback (2h)
+- Post on blog: (1h)
+  - Consolidate video(s) of the testing experience(s)
+  - Note at least 1 finding or observation or quotation or reflective diagram
 
 ## WEEK 3: THE INVITATION + THE EXIT
 How do you invite people in to your experience?<br>
@@ -269,22 +280,34 @@ How does the physical, visual and audio set-up impact their perception and their
 What are the sensual triggers for wayfinding (audio, visual, smell, touch, etc.)?<br>
 
 ### Class I: Monday
-- Review Assignment 2
-- Guest lecture by [<kbd>Mette Mørch</kbd>](http://ciid.dk/education/portfolio/idp16/courses/final-projects/projects/the-break-time-mission/) on her final project and research for it
-- Lecture: what is an "invitation" and why is it important?
-- Exercise: observe "invitations"
-- Exercise: paper prototype invitations
-- Exercise: test it out
-- Review and share
-- Lecture: inspirational invitations
+- 12:30 - 13:30 Review Assignment 2
+- 13:30 - 13:40 Break
+- 13:40 - 14:40 Lecture: what is an "invitation" and why is it important?
+- 14:40 - 14:50 Break
+- 14:50 - 15:50 Guest lecture by [<kbd>Mette Mørch</kbd>](http://ciid.dk/education/portfolio/idp16/courses/final-projects/projects/the-break-time-mission/) on her final project and research for it
+- 15:50 - 16:00 Break
+- 16:00 - 16:50 Exercise: Explore invitations
+  - Optional exercise: paper prototype invitations and test them out
+  - Review and share
+- 16:50 - 17:00 Discuss / in-between exercises
+
+**In-between exercise** (max 1.5h)
+Observe "invitations" (1hr) and document through video (optionally: also through photographs, sketches, diagrams)
+- Post on blog (30mins)
+  - Video
+  - At least one finding / observation
 
 ### Class II: Tuesday
-- Lecture: what is an "exit?" and why is it important?
-- Exercise: observe "exits"
-- Exercise: paper prototype exits
-- Exercise: test it out
-- Review and share
-- Lecture: inspirational exits
+- 12:30 - 13:30 Review in-between exercise
+- 13:30 - 13:40 Break
+- 13:40 - 14:40 Lecture: what is an "exit" and why is it important?
+- 14:40 - 14:50 Break
+- 14:50 - 15:30 Lecture and discussion
+- 15:30 - 15:40 Break
+- 15:40 - 16:30 Exercise: Explore exits
+  - Optional exercise: paper prototype exits and test them out
+  - Review and share
+- 16:30 - 17:00 Discuss/plan upcoming assignment
 
 **Assignment Week 3:**
 - Read:
