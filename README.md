@@ -11,6 +11,8 @@ This week (January 23), lecture meetings are: <br>
 Monday from 10-14h <br>
 Tuesday: independent study self-organised brainstorm before lecture <br>
 Tuesday: from 12-16h, (optional) lecture by Yann at 16:30 <br>
+Wednesday: self-organised brainstorm ideas -> concepts
+Thursday: 11:15-12:30
 Friday: guest lecture from 13-17h <br>
 
 **NOTE ON DOCUMENTATION**<br>
@@ -238,11 +240,28 @@ HMW Question definition + concept generation sessions with your fellow students.
   - Discussion: pure analog v. technical
 - Prep week 2 assignment + plan for testing or co-creation/co-design
 
-### Class III: Friday (January 27) Guest Lecture 13h - 17h
+- Decide if you are doing a individual concept or in group/ groups.
+- Pick 1 How Might We that you ( your group) is drawn towards.
+- Pick 1 Concept that you (or your group) want to to work on for the few weeks. You can do this based on the current brainstorm or a new brainstorm  ( brainstorm, cluster, build refine).
+- Before coming to class briefly think about what are the assumptions of your concept?
+- Be ready to share this at the start of the the class on Wednesday. You will have 5 mins to share, so keep it concise and focused. You can use whatever materials you want to to explain and communicate your concept.
+  - Things to include:
+  - HMW
+  - Main thought behind concept
+  - Components/features/abstract ingredients of concept
+  - Assumptions (what are you assuming will happen?)
+
+**In-between assignment**<br>
+### Class III: Thursday
+Concept direction presentations
+
+### Class IV: Friday (January 27) Guest Lecture 13h - 17h
 [Andreas Refsgaard](http://andreasrefsgaard.dk/) will take us through his interactive design practice and teach a few easy-to-implement techniques!<br>
 
 **Assignment Week 2:**
-Prototype and test at least 2 concepts.
+Prototype and test at least 2 components of your concept.
+What to prototype / how to prototype?
+
 
 ## WEEK 3: THE INVITATION + THE EXIT
 How do you invite people in to your experience?<br>
