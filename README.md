@@ -7,13 +7,10 @@ Abhiruchi Chhikara
 <br>a.chhikara@ciid.dk
 
 # Announcements:
-This week (January 23), lecture meetings are: <br>
-Monday from 10-14h <br>
-Tuesday: independent study self-organised brainstorm before lecture <br>
-Tuesday: from 12-16h, (optional) lecture by Yann at 16:30 <br>
-Wednesday: self-organised brainstorm ideas -> concepts
-Thursday: 11:15-12:30
-Friday: guest lecture from 13-17h <br>
+Upcoming week (January 30), lecture meetings are: <br>
+Monday from 12:30-17h <br>
+Tuesday from 12:30-17h <br>
+Friday guest visit from 13-17h <br>
 
 **NOTE ON DOCUMENTATION**<br>
 Make sure that you have done the following before the end of the course.
@@ -264,6 +261,11 @@ Concept direction presentations
 
 ### Class IV: Friday (January 27) Guest Lecture 13h - 17h
 [Andreas Refsgaard](http://andreasrefsgaard.dk/) will take us through his interactive design practice and teach a few easy-to-implement techniques!<br>
+If possible, please prep your computer with the following items: <br>
+1. The newest version of Processing: https://processing.org/download/?processing
+2. Wekinator: http://www.wekinator.org/downloads/
+3. Wekinator examples: https://github.com/fiebrink1/wekinator_examples
+4. If you want to play with Kinect and have Mac Computers, they can also download this executable: http://www.doc.gold.ac.uk/~mas01rf/WekinatorDownloads/wekinator_examples/executables/mac/inputs/KinectHandAndHead_9Inputs_Mac.zip
 
 **Assignment Week 2:** (5h total)
 Prototype and test at least 1 component of your concept.
