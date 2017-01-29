@@ -23,6 +23,8 @@ Make sure that you have done the following before the end of the course.
 
 
   ### Inspiration:
+  - [Andreas' lecture links](http://www.one-tab.com/page/yGYt2a53Sv6QefR1GcJZKA).
+  - Article: on comfort: "[No More Wire Mothers Ever](http://www.nytimes.com/2003/02/02/books/no-more-wire-mothers-ever.html)"
   - Today's inspiration: [Project links here](http://www.one-tab.com/page/hEAC3NEKQ6qwZz3YfKSw-w).
   - Tools, inspirational projects + readings [linked here](https://docs.google.com/spreadsheets/d/1ORRbNhE4PQNAcxEjbB3R6uoEBi8sGffI1UIKLg3XsQE/edit?usp=sharing)
 
