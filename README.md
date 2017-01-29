@@ -288,7 +288,7 @@ What are the sensual triggers for wayfinding (audio, visual, smell, touch, etc.)
 - 13:30 - 13:40 Break
 - 13:40 - 14:40 Lecture: what is an "invitation" and why is it important?
 - 14:40 - 14:50 Break
-- 14:50 - 15:50 Guest lecture by [<kbd>Mette Mørch</kbd>](http://ciid.dk/education/portfolio/idp16/courses/final-projects/projects/the-break-time-mission/) on her final project and research for it
+- 14:50 - 15:50 Lecture
 - 15:50 - 16:00 Break
 - 16:00 - 16:50 Exercise: Explore invitations
   - Optional exercise: paper prototype invitations and test them out
