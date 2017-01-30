@@ -306,7 +306,7 @@ Observe "invitations" (1hr) and document through video (optionally: also through
 - 13:30 - 13:40 Break
 - 13:40 - 14:40 Lecture: what is an "exit" and why is it important?
 - 14:40 - 14:50 Break
-- 14:50 - 15:30 Lecture and discussion
+- 14:50 - 15:30 Lecture and discussion ([Monika Seyfried](http://www.monikaseyfried.com/work/#/dimensional-walk/))
 - 15:30 - 15:40 Break
 - 15:40 - 16:30 Exercise: Explore exits
   - Optional exercise: paper prototype exits and test them out
