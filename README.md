@@ -288,7 +288,7 @@ What are the sensual triggers for wayfinding (audio, visual, smell, touch, etc.)
 - 13:30 - 13:40 Break
 - 13:40 - 14:40 Lecture: what is an "invitation" and why is it important? [Slides linked here](https://drive.google.com/a/ciid.dk/file/d/0B7XZZUZ2PP-0SmVFU3lkTmJpZXM/view?usp=sharing).
 - 14:40 - 14:50 Break
-- 14:50 - 15:50 Lecture: ludic design. [Slides linked here](https://drive.google.com/drive/folders/0B7XZZUZ2PP-0ZTJBb0dkbnpPNk0?usp=sharing).
+- 14:50 - 15:50 Lecture: ludic design. [Slides linked here](https://drive.google.com/open?id=0B7XZZUZ2PP-0ZTJBb0dkbnpPNk0).
 - 15:50 - 16:00 Break
 - 16:00 - 16:50 Exercise: Explore invitations
   - Optional exercise: paper prototype invitations and test them out
