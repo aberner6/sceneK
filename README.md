@@ -305,46 +305,82 @@ Observe "invitations" (1hr) and document through video (optionally: also through
 ### Class II: Tuesday
 - 12:30 - 13:30 Review in-between exercise
 - 13:30 - 13:40 Break
-- 13:40 - 14:40 Lecture: what is an "exit" and why is it important?
-- 14:40 - 14:50 Break
+- 13:40 - 14:50 Lecture: what is an "exit" and why is it important?
 - 14:50 - 15:10 Lecture: natural inspirations ([<kbd>Slides linked here</kbd>](https://drive.google.com/a/ciid.dk/file/d/0B7XZZUZ2PP-0ZUo5NGFVZ0dLLUk/view?usp=sharing))
-- 14:50 - 15:30 Lecture and discussion ([Monika Seyfried](http://www.monikaseyfried.com/work/#/dimensional-walk/))
-- 15:30 - 15:40 Break
-- 15:40 - 16:30 Exercise: Explore exits
+- 15:10 - 15:20 Break
+- 15:20 - 15:45 Lecture and discussion ([Monika Seyfried](http://www.monikaseyfried.com/work/#/dimensional-walk/))
+- 15:45 - 16:00 Break
+- 16:00 - 16:30 Exercise: Explore exits
   - Optional exercise: paper prototype exits and test them out
   - Review and share
 - 16:30 - 17:00 Discuss/plan upcoming assignment
 
 **Assignment Week 3:**
-- Read:
-- Do:
-  - Interview at least two individuals who engage or do not engage with your invitation (remember: consent forms)
-  - Based on your observations, create two invitations and test them in real life public spaces.
-  - How could the invitation and your concept from last week fit together? Make at least 3 diagrams that show your thought process and how your research feeds the decisions behind it
-- Go:
-  - Observe and document successful invitations. Note why you think they brought people in.
-  - Isolate one invitation and diagram the components on which the intervention places emphasis (or not).
-- Sum:
+- What is your idea?
+  - Diagram the idea
+    - Diagram options
+  - Storyboard the experience
+  - Try out as many aspects as possible
+    - Video document the "trying out"
+    - Keep any physical prototypes so you can show them (to us, to Friday presentation guests, etc.)
+  - Consider: how would you like to express it in a short video?
+    - Inspiration: [ciid.dk/education/projects](link to matt cottam's)
 
 ## WEEK 4: REVISIT / REFINE / PLAN FUTURE
 
 ### Class I: Monday
-- Review Assignment 3
+- Review Assignment Week 3
+- Break
+- Step by step plan for concept video
+  - Scene by scene, what will you show to express the idea?
+- Technical workshop
+  - Arduino play (AC)
+  - Little Bits play (AB)
+  - Processing (AC) / HTML5 Audio (AB) examples
 
-### Class II: Tuesday
-- Planning
-- Review learnings:
-  - Meta: tools
-  - Subject: insights -> concepts
+### Friday Presentation
+To prepare your thoughts, consider the following questions:
+  - General:
+    - Who are you designing for?
+    - Who is your audience?
+    - What is your concept?
+    - How does it work?
+    - What’s the expected value for the audience you have chosen?
+  - Concept:
+    - What's the "Question" you are exploring?
+  - Prototyping: Please describe your prototyping plan/challenges.
+    - What do you want to experiment with? What level of physical/digital prototyping?
+    - How will you prototype the experience? Describe which elements of the concepts you intend to prototype and how.
+    - Add a day by day schedule, including material and human resources needed. Discuss the plan with your group and the people you’re counting on to help you.
 
-**Assignment Week 4:**
+**Use this template to organize your presentation:**
+[<kbd>Link here</kbd>](Link to template).
+**INGREDIENTS TO GATHER:**
+- Where does it come from? (self-interview, interview of others, field research )
+- What is the experience?
+- What is your plan for execution?
+
+**What we are looking for** <br>
+  - Presentation:
+    - What we are looking for...
+      - Process: take us through your journey from the initial research (self-interview, interviews, field research, observations) to the final concept (what is it? How did you test it?)
+      - Concept: does it fit the goal?
+      - Prototype: have you used prototyping to learn and to refine your idea? (show the different prototypes and testing)
+      - Documentation: how are you communicating your work?
+      - Presentation: clarity of the story-telling
+
+### Class II: Friday
+- Presentation
+- Discussion
+- Plan for FUTURE
+  - Critiques
+  - Technical help / workshopping
+  - Prototyping
+
+GOING FORWARD <br>
 - Read:
   - [Creative Confidence](http://www.designkit.org/mindsets/3), by David Kelley
   - [Iterate](http://www.designkit.org/mindsets/7)
-- Do:
-  - Iterate
-- Go:
-- Sum:
 
-### WEEK 5: Friday (February 2) Studio Visit 13h - 17h
+### Friday (February 10) Studio Visit 13h - 17h
 [Peer Klausen](http://andreasrefsgaard.dk/) will take us through his art and design practice and show us his craft and studio!<br>
