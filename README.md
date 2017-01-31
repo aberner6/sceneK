@@ -286,7 +286,7 @@ What are the sensual triggers for wayfinding (audio, visual, smell, touch, etc.)
 ### Class I: Monday
 - 12:30 - 13:30 Review Assignment 2
 - 13:30 - 13:40 Break
-- 13:40 - 14:40 Lecture: what is an "invitation" and why is it important? [Slides linked here](https://drive.google.com/drive/folders/0B7XZZUZ2PP-0ZTJBb0dkbnpPNk0?usp=sharing).
+- 13:40 - 14:40 Lecture: what is an "invitation" and why is it important? [Slides linked here](https://drive.google.com/a/ciid.dk/file/d/0B7XZZUZ2PP-0SmVFU3lkTmJpZXM/view?usp=sharing).
 - 14:40 - 14:50 Break
 - 14:50 - 15:50 Lecture: ludic design. [Slides linked here](https://drive.google.com/drive/folders/0B7XZZUZ2PP-0ZTJBb0dkbnpPNk0?usp=sharing).
 - 15:50 - 16:00 Break
@@ -307,6 +307,7 @@ Observe "invitations" (1hr) and document through video (optionally: also through
 - 13:30 - 13:40 Break
 - 13:40 - 14:40 Lecture: what is an "exit" and why is it important?
 - 14:40 - 14:50 Break
+- 14:50 - 15:10 Lecture: natural inspirations ([<kbd>Slides linked here</kbd>](https://drive.google.com/a/ciid.dk/file/d/0B7XZZUZ2PP-0ZUo5NGFVZ0dLLUk/view?usp=sharing))
 - 14:50 - 15:30 Lecture and discussion ([Monika Seyfried](http://www.monikaseyfried.com/work/#/dimensional-walk/))
 - 15:30 - 15:40 Break
 - 15:40 - 16:30 Exercise: Explore exits
