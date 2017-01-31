@@ -300,6 +300,7 @@ Observe "invitations" (1hr) and document through video (optionally: also through
 - Post on blog (30mins)
   - Video
   - At least one finding / observation
+- Link for corresponding "versus"
 
 ### Class II: Tuesday
 - 12:30 - 13:30 Review in-between exercise
