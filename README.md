@@ -324,7 +324,7 @@ Observe "invitations" (1hr) and document through video (optionally: also through
     - Video document the "trying out"
     - Keep any physical prototypes so you can show them (to us, to Friday presentation guests, etc.)
   - Consider: how would you like to express it in a short video?
-    - Inspiration: [ciid.dk/education/projects](link to matt cottam's)
+    - Inspiration: [Project concept](http://ciid.dk/education/portfolio/idp16/courses/interactive-spaces/projects/caba/) and [Research behind it](http://ciid.dk/education/portfolio/idp16/courses/people-centred-research/projects/collective-memory-park-dioramas/) another good example of [research+concept](http://ciid.dk/education/portfolio/idp16/courses/service-design/projects/eventyr-pakke/)
 
 ## WEEK 4: REVISIT / REFINE / PLAN FUTURE
 
@@ -383,4 +383,4 @@ GOING FORWARD <br>
   - [Iterate](http://www.designkit.org/mindsets/7)
 
 ### Friday (February 10) Studio Visit 13h - 17h
-[Peer Klausen](http://andreasrefsgaard.dk/) will take us through his art and design practice and show us his craft and studio!<br>
+Peer Klausen will take us through his art and design practice and show us his craft and studio!<br>
