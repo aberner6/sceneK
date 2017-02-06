@@ -333,10 +333,15 @@ Observe "invitations" (1hr) and document through video (optionally: also through
 - Break
 - Step by step plan for concept video
   - Scene by scene, what will you show to express the idea?
+  - Inspirations:
+    - [Imagineers of Valby](http://ciid.dk/education/portfolio/idp13/courses/service-design/projects/imagineers-of-valby/): "Our final deliverable was a [video documenting some of our most interesting interventions](http://ciid.dk/education/portfolio/idp13/courses/service-design/projects/imagineers-of-valby/). By showing both our prototypes as well as the people interacting with them, we hope to inspire the Kulturhus Valby (and the other services related to them) to think about new ways to engage regular and new visitors with the rich and valuable content that these places offer. While the video is only a part of this entire system, it shows the potential behind the core value of the experience-sharing service."
+    - [Veeer](http://ciid.dk/education/portfolio/idp12/courses/service-design/projects/veeer/)
 - Technical workshop
   - Arduino play (AC)
   - Little Bits play (AB)
-  - Processing (AC) / HTML5 Audio (AB) examples
+    - Useful links:
+    - You can take a look at and choose filters to view projects specifically about sound. For example: [<kbd>sound projects</kbd>](http://littlebits.cc/inventions/explore?tags=sound&sort=recent&page=1&per_page=9)
+  - Processing (AC) / p5 Audio (AB) examples
 
 ### Friday Presentation
 To prepare your thoughts, consider the following questions:
@@ -354,10 +359,12 @@ To prepare your thoughts, consider the following questions:
     - Add a day by day schedule, including material and human resources needed. Discuss the plan with your group and the people you’re counting on to help you.
 
 **Use this template to organize your presentation:**
-[<kbd>Link here</kbd>](Link to template).
+[<kbd>Link here</kbd>](https://docs.google.com/presentation/d/1xUwwQ1MfyV6JzRe00T_2F0_ZGyntO5333QX27VYcQVs/edit?usp=sharing). <br>
 **INGREDIENTS TO GATHER:**
+- What is your intention / goal?
+- What is your idea?
+  - What is the scenario of the experience?
 - Where does it come from? (self-interview, interview of others, field research )
-- What is the experience?
 - What is your plan for execution?
 
 **What we are looking for** <br>
