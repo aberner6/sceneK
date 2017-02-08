@@ -360,11 +360,19 @@ To prepare your thoughts, consider the following questions:
 
 **Use this template to organize your presentation:**
 [<kbd>Link here</kbd>](https://docs.google.com/presentation/d/1xUwwQ1MfyV6JzRe00T_2F0_ZGyntO5333QX27VYcQVs/edit?usp=sharing). <br>
+Here are [<kbd>2 sample presentations</kbd>](https://drive.google.com/open?id=0B7XZZUZ2PP-0ak5fOE1Pd0FuOUE) that might help either:
+- Inspiration for how to communicate the experience of the Concept
+- Structuring your work and thoughts. <br>
 **INGREDIENTS TO GATHER:**
 - What is your intention / goal?
+  - For your own research interests
+  - Overall (the How Might We, for example)
+  - What do you hope to learn through it? What do you hope people will learn by experiencing it? What do you hope they will feel?
 - What is your idea?
-  - What is the scenario of the experience?
-- Where does it come from? (self-interview, interview of others, field research )
+  - What is the scenario of the experience? Help us imagine it.
+- Where does it come from? (self-interview, interview of others, field research)
+  - What are the seeds - or a few “bread crumbs”  or “red thread” that carries through from your inspirations, looking around, talking to people (formal and informal interviews / “fieldwork”)?
+  - As in - share some of the special insights you learned!
 - What is your plan for execution?
 
 **What we are looking for** <br>
