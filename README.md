@@ -12,6 +12,15 @@ Abhiruchi Chhikara
 - Friday with Annelie: 10 - 12:30
 Please email us if you have anything in particular you would like to meet about or if you cannot make it to these times and want to meet with us.
 
+### Inspirations:
+- [BFG dream catching](https://www.google.dk/imgres?imgurl=https%3A%2F%2Fimage.slidesharecdn.com%2Fdahl-bfg-wordplay-160710145429%2F95%2Fword-play-in-roald-dahls-the-bfg-a-study-in-schemes-and-tropes-5-638.jpg%3Fcb%3D1468162507&imgrefurl=http%3A%2F%2Fwww.slideshare.net%2Fmajorfun%2Fword-play-in-roald-dahls-the-bfg-a-study-in-schemes-and-tropes&docid=wtGrklEtR7h-1M&tbnid=6KgAEMPYe29RDM%3A&vet=1&w=638&h=479&bih=799&biw=1399&q=the%20bfg%20catching%20dreams&ved=0ahUKEwi9iPfdwYvSAhWMFCwKHbzoBTIQMwhbKDUwNQ&iact=mrc&uact=8#h=479&imgdii=WZBAZXkCms77OM:&imgrc=6KgAEMPYe29RDM:&vet=1&w=638) - from the [<kbd>novel</kbd>](https://assets.londonist.com/uploads/2016/07/i730/bfgdreamcatcher.jpg) and the [installation inspired by the novel](http://www.visitlondon.com/bfg) (and recent movie)
+- Carla Diana - [fragile eggs](http://carladiana.com/blog/#fragile-installation) <br>
+PAST WEEKS: <br>
+- [Andreas' lecture links](http://www.one-tab.com/page/yGYt2a53Sv6QefR1GcJZKA).
+- Article: on comfort: "[No More Wire Mothers Ever](http://www.nytimes.com/2003/02/02/books/no-more-wire-mothers-ever.html)"
+- Today's inspiration: [Project links here](http://www.one-tab.com/page/hEAC3NEKQ6qwZz3YfKSw-w).
+- Tools, inspirational projects + readings [linked here](https://docs.google.com/spreadsheets/d/1ORRbNhE4PQNAcxEjbB3R6uoEBi8sGffI1UIKLg3XsQE/edit?usp=sharing)
+
 **NOTE ON DOCUMENTATION**<br>
 Make sure that you have done the following before the end of the course.
 - Take high quality photos of each of the tools you used, with your participants' input.
@@ -20,13 +29,6 @@ Make sure that you have done the following before the end of the course.
   - If in another language, add English voice-over / subtitles so you can share it more widely (and so we can understand it :)
   - Make sure we know what question / tool is being used during the edited segment of the video. Otherwise we, as your viewers, are lost! So - you can add a general title before that segment, for example. See me if you need help.
   - Example [here](https://drive.google.com/open?id=0B7XZZUZ2PP-0cE91bGFNVW14Vk0).
-
-
-  ### Inspiration:
-  - [Andreas' lecture links](http://www.one-tab.com/page/yGYt2a53Sv6QefR1GcJZKA).
-  - Article: on comfort: "[No More Wire Mothers Ever](http://www.nytimes.com/2003/02/02/books/no-more-wire-mothers-ever.html)"
-  - Today's inspiration: [Project links here](http://www.one-tab.com/page/hEAC3NEKQ6qwZz3YfKSw-w).
-  - Tools, inspirational projects + readings [linked here](https://docs.google.com/spreadsheets/d/1ORRbNhE4PQNAcxEjbB3R6uoEBi8sGffI1UIKLg3XsQE/edit?usp=sharing)
 
 ## Overview:
 This course will introduce students to the CIID process of Interaction Design - from research to prototyping - with weekly readings, lectures and activities that will equip students with methodological knowledge as well as practical, hands-on techniques to think through and flesh out their designs. We will focus our efforts under an engaging research topic, design challenge and its subset of questions over the course of 4 weeks.<br>
