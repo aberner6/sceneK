@@ -7,10 +7,10 @@ Abhiruchi Chhikara
 <br>a.chhikara@ciid.dk
 
 # Announcements:
-Upcoming week (January 30), lecture meetings are: <br>
-Monday from 12:30-17h <br>
-Tuesday from 12:30-17h <br>
-Friday guest visit from 13-17h <br>
+# OFFICE HOURS THIS WEEK:
+- Thursday with Abhiruchi: 15:30 - 17:30
+- Friday with Annelie: 10 - 12:30
+Please email us if you have anything in particular you would like to meet about or if you cannot make it to these times and want to meet with us.
 
 **NOTE ON DOCUMENTATION**<br>
 Make sure that you have done the following before the end of the course.
@@ -396,6 +396,3 @@ GOING FORWARD <br>
 - Read:
   - [Creative Confidence](http://www.designkit.org/mindsets/3), by David Kelley
   - [Iterate](http://www.designkit.org/mindsets/7)
-
-### Friday (February 10) Studio Visit 13h - 17h
-Peer Klausen will take us through his art and design practice and show us his craft and studio!<br>
