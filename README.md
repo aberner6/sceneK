@@ -13,6 +13,7 @@ Abhiruchi Chhikara
 Please email us if you have anything in particular you would like to meet about or if you cannot make it to these times and want to meet with us.
 
 ### Inspirations:
+- MUSIC AND DRAWING MACHINES AND SENSORS (https://www.one-tab.com/page/aBJdi06STfWwLPGmjXMVwg)
 - [BFG dream catching](https://www.google.dk/imgres?imgurl=https%3A%2F%2Fimage.slidesharecdn.com%2Fdahl-bfg-wordplay-160710145429%2F95%2Fword-play-in-roald-dahls-the-bfg-a-study-in-schemes-and-tropes-5-638.jpg%3Fcb%3D1468162507&imgrefurl=http%3A%2F%2Fwww.slideshare.net%2Fmajorfun%2Fword-play-in-roald-dahls-the-bfg-a-study-in-schemes-and-tropes&docid=wtGrklEtR7h-1M&tbnid=6KgAEMPYe29RDM%3A&vet=1&w=638&h=479&bih=799&biw=1399&q=the%20bfg%20catching%20dreams&ved=0ahUKEwi9iPfdwYvSAhWMFCwKHbzoBTIQMwhbKDUwNQ&iact=mrc&uact=8#h=479&imgdii=WZBAZXkCms77OM:&imgrc=6KgAEMPYe29RDM:&vet=1&w=638) - from the [<kbd>novel</kbd>](https://assets.londonist.com/uploads/2016/07/i730/bfgdreamcatcher.jpg) and the [installation inspired by the novel](http://www.visitlondon.com/bfg) (and recent movie)
 - Carla Diana - [fragile eggs](http://carladiana.com/blog/#fragile-installation) <br>
 PAST WEEKS: <br>
